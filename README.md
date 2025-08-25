@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Prudence Pulane Malatjie 👋
 
-<!--
-**Prudence-Pulane-Malatjie/Prudence-Pulane-Malatjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Software Engineering student at **WeThinkCode** with a passion for coding, analyzing and solving real-world problems.  
+My top skills include **Python**, **Java**, Object-Oriented Programming, and Client-Server Architecture.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Java
+- Object-Oriented Programming (OOP)
+- Client-Server Architecture
+- Docker and Docker Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**WeThinkCode**  
+Final-year Software Engineering Student
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/prudence-pulane-malatjie-a8b8381a3)
+
+## 🎶 Fun Fact
+I enjoy listening to classical symphonies like **Mozart** and **Beethoven** while working or learning!
+
+---
+
+_“Code is like music; both need harmony, rhythm, and creativity.”_
